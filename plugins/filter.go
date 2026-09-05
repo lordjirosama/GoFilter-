@@ -47,6 +47,10 @@ const (
 
 // Manual filter function
 func MFilter(bot *gotgbot.Bot, ctx *ext.Context) error {
+	if ctx.Message.Sticker != nil {
+		return nil
+	}
+
 	var (
 		chatID    int64
 		update    = ctx.Message
