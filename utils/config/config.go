@@ -16,7 +16,7 @@ var TEXT map[string]string = map[string]string{
 <b>○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 :</b> : <a href='https://go.dev'>GO</a>
 <b>○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒</b> : <a href='github.com/PaulSonOfLars/gotgbot'>gotgbot</a>
 <b>○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾</b> : <a href='mongodb.org'>mongoDB</a>
-<b>○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍</b> : <a href='t.me/Jisin0'>Here</a>
+<b>○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍</b> : <a href='t.me/Anime_Hindi_Fix'>Here</a>
 	`,
 
 	"MF": `
